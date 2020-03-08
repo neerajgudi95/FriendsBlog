@@ -1,0 +1,97 @@
+body{
+    text-align: center;
+    font-style: inherit;
+    overflow-x: hidden;
+}
+
+
+.banner{
+    background-image: url(F:/studies/WEB-DEVELOPMENT/CSS-MySite/images/sarpass.jpg);
+    background-repeat: round;
+    content: '';
+    background-color: #fff;
+    height: 500px;
+    padding: 0%;
+    width: 100%;
+    color: #fff;
+}
+
+h6{
+    font-family: 'Nanum Brush Script', monospace;
+    padding: 2px;
+}
+
+h1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 4rem;
+    font-weight: 100;
+    padding: 5%;
+    line-height: 2;
+}
+p{
+    font-family: 'Nanum Brush Script', sans-serif;
+    font-size: 2rem;
+    padding: 3% 30%;
+}
+
+.mem-h2{
+    font-family: 'Nanum Brush Script', sans-serif;
+    font-size: 3rem;
+    margin: 2% 0 2%;
+    color: black;
+}
+
+.brd{
+    margin: auto;
+    border: 0;
+    padding: 3%;
+    font-size: 100%;
+    font: inherit;
+    text-align: center;
+}
+
+.gallery{
+    padding: 1rem;
+    background-repeat: round;
+    border: #474645 2px solid;
+}
+.pic{
+    max-width: 100%;
+    max-height: 100%;
+    
+}
+det-img{
+    
+}
+.button-enj{
+    margin: 2rem;
+    font-family: 'Nanum Brush Script', sans-serif;
+    color: black;
+}
+
+.icon{
+    padding-right: 5px;
+  }
+
+#testimonials{
+    background-color: #474645;
+    color: white;
+}
+
+.test-h2{
+    font-family: 'Nanum Brush Script', sans-serif;
+    font-size: 3rem;
+    padding: 2% 15%;
+    color: white;
+}
+
+.test-img{
+    width: 10%;
+    border-radius: 45%;
+}
+
+h3{
+    font-family: 'Nanum Brush Script', sans-serif;
+    font-size: 2rem;
+    color: white;
+}
