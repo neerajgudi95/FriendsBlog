@@ -6,7 +6,7 @@ body{
 
 
 .banner{
-    background-image: url(F:/studies/WEB-DEVELOPMENT/CSS-MySite/images/sarpass.jpg);
+    background-image: url(F:/studies/WEB-DEVELOPMENT/FriendsBlog/images/sarpass.jpg);
     background-repeat: round;
     content: '';
     background-color: #fff;
@@ -21,6 +21,7 @@ h6{
     padding: 2px;
 }
 
+
 h1{
     font-family: 'Dancing Script', cursive;
     font-size: 4rem;
@@ -31,38 +32,50 @@ h1{
 p{
     font-family: 'Nanum Brush Script', sans-serif;
     font-size: 2rem;
-    padding: 3% 30%;
+    padding: 1% 30%;
 }
 
 .mem-h2{
     font-family: 'Nanum Brush Script', sans-serif;
     font-size: 3rem;
-    margin: 2% 0 2%;
+    margin-bottom: 2%;
     color: black;
+}
+.car-imgs{
+    padding: 2%;
 }
 
 .brd{
-    margin: auto;
-    border: 0;
     padding: 3%;
     font-size: 100%;
     font: inherit;
     text-align: center;
+    background-color: #f1f3f4;
+}
+
+.brd-over{
+    margin: auto;
+    padding: 3%;
+    font-size: 100%;
+    font: inherit;
+    text-align: center;
+    background-color: #f1f3f4;
 }
 
 .gallery{
     padding: 1rem;
     background-repeat: round;
-    border: #474645 2px solid;
 }
 .pic{
     max-width: 100%;
     max-height: 100%;
     
 }
-det-img{
-    
+
+.brd-date{
+    text-align: right;
 }
+
 .button-enj{
     margin: 2rem;
     font-family: 'Nanum Brush Script', sans-serif;
