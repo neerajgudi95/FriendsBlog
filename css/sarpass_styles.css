@@ -6,7 +6,7 @@ body{
 
 
 .banner{
-    background-image: url(F:/studies/WEB-DEVELOPMENT/FriendsBlog/images/sarpass.jpg);
+    background-image: url(sarpass.jpg);
     background-repeat: round;
     content: '';
     background-color: #fff;
